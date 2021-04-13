@@ -11,7 +11,7 @@ import requests
 URL = ""
 Username = ""
 Password = ""
-srcPath =  "https://warframe.fandom.com/wiki/Special:FilePath/"
+srcPath =  "https://         .fandom.com/wiki/Special:FilePath/"
 FilesList = "Files.txt"
 
 
